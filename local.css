@@ -189,7 +189,8 @@ nav > div div .info {
   top: 50px;
   right: 0px;
   border-radius: 0px 0px 5px 5px;
-  opacity: 0;
+/*   opacity: 0; */
+  display: none;
 }
 
 nav > div div .info span {
@@ -198,7 +199,8 @@ nav > div div .info span {
 }
 
 nav > div div .info.show {
-  opacity: 1;
+/*   opacity: 1; */
+  display: block;
 }
 
 nav > div a {
