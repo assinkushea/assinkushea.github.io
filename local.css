@@ -140,8 +140,8 @@ body {
 nav {
   width: 100%;
   height: 50px;
-  background: radial-gradient(black, transparent);
-/*   background: black; */
+/*   background: radial-gradient(black, transparent); */
+  background: black;
 /*   background: radial-gradient(#fbfbfb, transparent); */
 /*   background: radial-gradient(#161616, transparent); */
   position: fixed;
