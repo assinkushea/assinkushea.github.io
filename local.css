@@ -192,6 +192,10 @@ nav > div div .info {
   opacity: 0;
 }
 
+nav > div div .info span {
+  text-decoration: underline;
+}
+
 nav > div div .info.show {
   opacity: 1;
 }
