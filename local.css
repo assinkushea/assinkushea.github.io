@@ -182,8 +182,8 @@ nav > div div {
 nav > div div .info {
   width: fit-content;
   height: fit-content;
-  background: red;
   background: radial-gradient(#161616, transparent);
+  background: black;
   position: absolute;
   padding: 20px;
   top: 50px;
